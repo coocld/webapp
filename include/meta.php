@@ -7,8 +7,12 @@
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <link rel="apple-touch-icon-precomposed" href="114x114.png" />
 <link rel="apple-touch-startup-image" href="320x640.png" />
-<link href="/webapp/public/css/ratchet.css" rel="stylesheet">
-<link href="/webapp/public/css/ratchet-theme-ios.css" rel="stylesheet">
-<link href="/webapp/public/css/common.css" rel="stylesheet">
-<script src="/webapp/public/js/ratchet.js"></script>
-<script src="/webapp/public/js/jquery.js"></script>
+<link href="/public/css/ratchet.css" rel="stylesheet">
+<link href="/public/css/ratchet-theme-ios.css" rel="stylesheet">
+<link href="/public/css/common.css" rel="stylesheet">
+
+<script src="/public/js/require/require.setting.js"></script>
+<script src="/public/js/require/require.js"></script>
+
+
+<script src="/public/js/jquery.js"></script>

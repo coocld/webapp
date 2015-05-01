@@ -2,7 +2,7 @@
 <html>
   <head>
     <?php include '../include/meta.php'; ?>
-    <link href="/webapp/public/css/message.css" rel="stylesheet">
+    <link href="../public/css/message.css" rel="stylesheet">
     <title>消息中心</title>
   </head>
   <body>
